@@ -6,6 +6,7 @@
 //  Copyright © 2018 ZidniRyi. All rights reserved.
 //
 
+
 import UIKit
 import Firebase
 import GoogleMobileAds
@@ -97,7 +98,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
             
             
            // let postDict = snapshot.value as? [String : AnyObject] ?? [:]
-            // ...
+            // 
         })
     }
     
